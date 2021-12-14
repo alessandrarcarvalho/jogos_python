@@ -7,7 +7,6 @@ This program has two games:
 
 In this program, the user chooses the game he wants to play.
 The <i> Guessing Game </i> has 3 difficulty levels.
-<i>Hangman</i> will be added soon.
 
 - Programming language: python3
 - Practice of:
